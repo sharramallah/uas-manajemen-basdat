@@ -1,8 +1,8 @@
-# uas-manajemen-basdat
+# UAS Manajemen Basis Data
 
 
-- Link MongoDB
-https://www.mongodb.com/try/download/community
+## [Link video youtube]
+
 
 ## Anggota Kelompok 7
 |NIM|Nama|
@@ -23,14 +23,13 @@ https://www.mongodb.com/try/download/community
 - Membuat database dan 1 collection
 <img width="428" alt="2-membuat database" src="https://user-images.githubusercontent.com/80917799/208159398-7f9822af-63eb-4836-9103-e58b6b742e4b.png">
  
-### Menyiapkan Aplikasi Fullstack
-- Mendownload source code nya : https://github.com/tegar-anggana/uas-manajemen-basis-data
-- Memasuki / cd ke folder 'backend', jalankan **npm install**
-- Memasuki / cd ke folder 'frontend', jalankan **npm install**
-###  Menjalankan Aplikasi Fullstack
-- Memasuki / cd ke folder 'backend', jalankan **npm run dev**
-- Memasuki / cd ke folder 'frontent', jalankan **npm start**
-## [Link Video Presentasi & Demo CRUD](https://youtu.be/lwyBcRmFSmQ)
+###  Menjalankan Aplikasi Fullstack (Sobat Workout)
+- Masuk / cd ke folder 'backend', jalankan **npm run dev**
+- Masuk / cd ke folder 'frontent', jalankan **npm start**
+- 
+## [Link Video Presentasi & Demo CRUD]
+
+
 ### Beberapa Endpoints (selengkapnya ada di dalam folder backend)
 <img width="410" alt="2-task endpoints" src="https://user-images.githubusercontent.com/80917799/208159661-4330db0d-9486-4f8f-b243-9a0b647a6a7b.png">
 <img width="457" alt="3-task controller 1" src="https://user-images.githubusercontent.com/80917799/208159743-043146fc-b589-4bd6-bae8-c2495f61361d.png">
