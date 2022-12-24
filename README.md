@@ -2,7 +2,7 @@
 
 
 ## [Link video youtube]
-
+https://youtu.be/oiy57nRx8vw
 
 ## Anggota Kelompok 4
 |NIM|Nama|
@@ -29,7 +29,7 @@
 - Masuk / cd ke folder 'frontent', jalankan **npm start**
 - 
 ## [Link Video Presentasi & Demo CRUD]
-
+https://youtu.be/oiy57nRx8vw
 
 ### Beberapa Endpoints (selengkapnya ada di dalam folder backend)
 ![image](https://user-images.githubusercontent.com/112849065/209294898-f9b38d54-d7fa-4cf9-b9b9-a370c3a5e963.png)
